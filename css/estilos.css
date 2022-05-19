@@ -1,0 +1,21 @@
+.bg-light{
+    background-color: darkmagenta !important;
+}
+
+.nav-link{
+    color: #FFFFFF;
+}
+.navbar-brand{
+    color: #FFFFFF;
+}
+
+.btn{
+    color:#FFFFFF;
+    background-color: brown;
+    --bs-btn-hover-bg: rgb(224, 13, 84);
+}
+
+.card{
+    --bs-card-border-color: rgb(160, 0, 48);
+    border:solid firebrick;
+}
